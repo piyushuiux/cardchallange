@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(245, 242, 234);
+    text-align: center;
+    margin-top: 100px;
+}
+div{
+    width: 44%;
+    margin: auto;
+    line-height: 2;
+    background: rgb(255, 255, 255);
+    height: 475px;
+    border-radius: 10px;
+    text-align: left;
+    
+}
+img{
+    float: left;
+    border-radius: 10px 0 0 10px;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+    padding: 0 0px 0 370px;
+}
+.uppercase{
+    position: absolute;
+    margin: -73px 0 0  150px;
+}
+.head{
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 5px;
+    margin-bottom: 0px;
+    padding: 10px 0px 0 370px;
+    
+}
+h1{
+    font-family: 'Fraunces', serif; 
+    color: rgb(14, 148, 48); 
+    padding: 0 0px 0 370px;
+}
+#line{
+    line-height: 1.5;
+    margin: 0px;
+    padding: 0 0px 0 370px;
+}
+#button{
+    height: 40px;
+    width: 200px;
+    background-color: rgb(4, 40, 13);
+    margin: 0 0 0 400px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: 'Poppins', sans-serif;
+    padding: 5px 0px 0 0;
+    position: relative;
+}
+.cart{
+    margin: 6px 0 0 -1px;
+    position: absolute;
+}
+span{
+    margin-left: 30px;
+}
